@@ -24,4 +24,4 @@ A track naming standard like this may already exist...I didn't feel like Googlin
 Ex: ```Jay Gupta Music - Welcome-To-LUTDs - 07 Touch The Screen.mp3```
 
 ##TODO
-1.  Use a big-boy database
+1.  Make storage decentralized / make service locally hosted a la OpenBazaar
