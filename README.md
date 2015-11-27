@@ -22,3 +22,6 @@ A track naming standard like this may already exist...I didn't feel like Googlin
 ```<Artist Name> + ' ' + '-' + ' ' + <Album Name> + ' ' + '-' + ' ' + <Track Number> + ' ' + <Track name> + <File Extension>```
 
 Ex: ```Jay Gupta Music - Welcome-To-LUTDs - 07 Touch The Screen.mp3```
+
+##TODO
+1.  Use a big-boy database
