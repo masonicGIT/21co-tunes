@@ -1,6 +1,12 @@
 # 21co-tunes
 Buy tracks from a BTC payable API endpoint
 
+## Purchasing a track with the 21 Bitcoin Computer
+1. ```git clone https://github.com/masonicGIT/21co-tunes```
+2. ```cd 21co-tunes```
+3. ```python3 client.py```
+4. Select the track you wish to purchase
+
 ## Track Definition
 21co-tunes need to be easily accessible via an API endpoint either by track name, album name, or artist name. 
 
